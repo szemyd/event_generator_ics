@@ -1,5 +1,3 @@
-flowers
-
 # Generate a number of randomly distributed events between a starting and end date
 
 ## Parameters
